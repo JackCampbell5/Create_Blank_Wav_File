@@ -4,7 +4,7 @@
 + This code takes the data from left_channel.py and right_channel.py and creates a blank audio file
 + The output will be 6 minutes and 58 seconds as that is the max can be created
 + It will be placed in a directory of your choice
-+ It is supposed to be used in conjunction with [Wave Separate Left Right]{}
++ It is supposed to be used in conjunction with [Wave Separate Left Right](https://github.com/JackCampbell5/Wave-Separate-Left-Right "Wave Separate Left Right")
 
 ## How to run:
 + Install dependency's
@@ -20,6 +20,3 @@
 + Numpy
 + Wave
 + Os
-
-### Todo:
-+ Add link to wave separate
